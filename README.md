@@ -2,6 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity - C#
 - 🏫 I study Computer Science (CENG) at Harran University (3rd Grade)
+- 🏫 I also studied Computer Science at AGH University of Science and Technology (Krakow/Poland)
 - 📫 How to reach me : 
 emirhan.duman@hotmail.com or
 Discord : aisukaiten
